@@ -1,5 +1,6 @@
 # THE Spatialflunky1 GitHub page
-#### 👀 I’m interested in coding
+#### 👀 I’m interested in coding (and MURDER)
+#### 🥴 The Grimblies are here
 #### 🌱 I’m currently learning: Python, Java, HTML/CSS/JS, Bash, etc... (if I think of random project ideas I learn it)
 #### 💞️ I’m looking to collaborate on anything
 #### 📫 How to reach me: email (I get mobile notifs)
